@@ -8,8 +8,8 @@ package tradeoffer
 import (
 	"encoding/json"
 
-	"github.com/Philipp15b/go-steam/v3/economy/inventory"
-	"github.com/Philipp15b/go-steam/v3/steamid"
+	"github.com/thinkonmay/go-steam/economy/inventory"
+	"github.com/thinkonmay/go-steam/steamid"
 )
 
 type TradeOfferState uint
