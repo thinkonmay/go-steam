@@ -1,4 +1,4 @@
-module github.com/thinkonmay/go-steam/v3
+module github.com/thinkonmay/go-steam
 
 go 1.25
 
