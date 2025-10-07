@@ -3,9 +3,9 @@ package steam
 import (
 	"time"
 
-	"github.com/Philipp15b/go-steam/v3/protocol/protobuf"
-	"github.com/Philipp15b/go-steam/v3/protocol/steamlang"
-	"github.com/Philipp15b/go-steam/v3/steamid"
+	"github.com/thinkonmay/go-steam/v3/protocol/protobuf"
+	"github.com/thinkonmay/go-steam/v3/protocol/steamlang"
+	"github.com/thinkonmay/go-steam/v3/steamid"
 )
 
 type FriendsListEvent struct{}
