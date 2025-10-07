@@ -23,8 +23,8 @@ import (
 	"time"
 
 	"github.com/thinkonmay/go-steam/v3"
-	"github.com/thinkonmay/go-steam/v3/netutil"
-	"github.com/thinkonmay/go-steam/v3/protocol"
+	"github.com/thinkonmay/go-steamnetutil"
+	"github.com/thinkonmay/go-steamprotocol"
 	"github.com/davecgh/go-spew/spew"
 )
 
